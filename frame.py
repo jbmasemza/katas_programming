@@ -1,4 +1,4 @@
-#define combine() function
+#define frame() function
 def frame(*words):
   
    size = max(len(word) for word in words)
